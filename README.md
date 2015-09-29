@@ -1,1 +1,1 @@
-http://lukemcfarlane.github.io/google-maps-playground
+http://lukemcfarlane.github.io/google-map-playground
